@@ -15,7 +15,7 @@
   "homepage": "https://github.com/ponyfrance/videojs-resolution-switcher#readme",
   "dependencies": {
     "video.js": "^7.2.3",
-    "videojs-resolution-switcher": "git+https://github.com/ponyfrance/videojs-resolution-switcher.git",
+    "videojs-resolution-switcher-v7": "git+https://github.com/ponyfrance/videojs-resolution-switcher.git",
     "videojs-youtube": "^2.6.0"
   }
 }
