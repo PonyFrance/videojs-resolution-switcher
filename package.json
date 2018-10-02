@@ -1,24 +1,21 @@
 {
-  "name": "vjs-resolution-switcher-page",
-  "version": "1.0.0",
-  "description": "videojs plugin page",
+  "name": "vjs-resolution-switcher-page-v7",
+  "version": "1.1.0",
+  "description": "videojs7 plugin page",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kmoskwiak/videojs-resolution-switcher.git"
+    "url": "git+https://github.com/ponyfrance/videojs-resolution-switcher.git"
   },
   "author": "Kasper Moskwiak",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kmoskwiak/videojs-resolution-switcher/issues"
-  },
-  "homepage": "https://github.com/kmoskwiak/videojs-resolution-switcher#readme",
+  "homepage": "https://github.com/ponyfrance/videojs-resolution-switcher#readme",
   "dependencies": {
-    "video.js": "^5.0.0",
-    "videojs-resolution-switcher": "git+https://github.com/kmoskwiak/videojs-resolution-switcher.git",
-		"videojs-youtube": "^2.0.8"
+    "video.js": "^7.2.3",
+    "videojs-resolution-switcher": "git+https://github.com/ponyfrance/videojs-resolution-switcher.git",
+    "videojs-youtube": "^2.6.0"
   }
 }

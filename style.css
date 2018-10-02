@@ -51,29 +51,3 @@ pre {
   padding-bottom: 50px;
   padding-top: 30px;
 }
-
-.footer {
-  color: #fff;
-  padding: 20px 50px;
-  text-align: center;
-}
-
-.kspr {
-  display: inline-block;
-  width: 50px;
-  line-height: 50px;
-  background: #0082d3;
-  border-radius: 100%;
-  text-align: center;
-  color: #fff;
-  text-decoration: none;
-
-  font-family: monospace;
-  box-shadow: 2px 2px 10px -5px #000;
-}
-
-.kspr:hover {
-  text-decoration: none;
-  color: #fff;
-  
-}
